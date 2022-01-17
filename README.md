@@ -33,7 +33,7 @@ N.B: It would be better to see the most active contributor in another UI
 
 ## Sample Output Screenshots
 1 Initial UI: 
-![Initial UI](https://firebasestorage.googleapis.com/v0/b/kitbag-ca2b0.appspot.com/o/personal%2F1.png?alt=media&token=5ae17c04-4caf-438a-8df7-39b927669200 "Initial UI")
+![](https://firebasestorage.googleapis.com/v0/b/kitbag-ca2b0.appspot.com/o/personal%2F1.png?alt=media&token=5ae17c04-4caf-438a-8df7-39b927669200 | height=100)
 
 2 Searching UI: 
 ![Searching UI](https://firebasestorage.googleapis.com/v0/b/kitbag-ca2b0.appspot.com/o/personal%2F2.png?alt=media&token=30e9200d-9269-414b-82cd-b4be33fdeaa5 "Searching for repositories")
